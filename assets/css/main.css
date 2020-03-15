@@ -132,6 +132,7 @@ input, select, textarea {
 
 		h2.alt {
 			color: #888;
+			outline: 5px black;
 		}
 
 			h2.alt strong {
